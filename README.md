@@ -1,56 +1,57 @@
 # Shah Khalid
-**Senior Software Engineer | React Native & Expo Architect**
+### Senior Software Engineer | React Native & Expo Architect
+**Islamabad, Pakistan**
 
-I specialize in building high-stakes mobile ecosystems where hardware, real-time data, and user experience meet. With 6+ years in the React Native space, I focus on creating maintainable architectures and leveraging AI-assisted workflows to ship production-ready apps at scale.
-
----
-
-### 🛠 Technical Expertise
-
-- **Core:** React Native, Expo, TypeScript, JavaScript (ES6+), Next.js
-- **Real-time & State:** WebSockets, Redux, Context API, Legend-State
-- **Infrastructure:** Firebase (Functions, Firestore), REST APIs, Offline-first architecture
-- **Integrations:** POS Payment Hardware, Google Maps/Calendar, LINE Messaging API
+A Senior Engineer with 6+ years of experience specializing in the React Native ecosystem. I focus on building high-stakes mobile architectures that bridge the gap between complex hardware, real-time data, and seamless user experiences.
 
 ---
 
-### 🏗 Featured Case Studies
+## 🛠️ Technical Stack
 
-#### 🏋️ TrainerX (Taiwan MVP)
-*Lead Engineer | Expo & Next.js*
-Built a localized fitness ecosystem with a heavy focus on scheduling. 
-- Integrated **Google Calendar API** and **LINE Messaging bridge**.
-- Managed full-stack delivery and maintained documentation for reusable UI components in **Notion**.
-
-#### 🍱 Bamboo Bowl (FinTech/Retail)
-*Senior Mobile Developer*
-Architected a restaurant kiosk system requiring deep hardware integration.
-- Engineered a bridge for **physical POS payment terminals**.
-- Used **WebSockets** to drive real-time navigation flows upon order completion.
-
-#### 🚨 Honk (Community Safety)
-*Mobile Architect*
-Developed a low-latency hazard reporting platform.
-- Optimized **Google Maps clustering** for high-density data.
-- Implemented sub-second sync using **Firebase Firestore**.
+| Area | Technologies |
+| :--- | :--- |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=react,ts,js,apple,android" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=firebase,nodejs,nextjs,supabase" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,bitbucket,notion,vscode" /> |
 
 ---
 
-### 🧠 Engineering Philosophy
-- **Autonomous Ownership:** I manage my own task pipelines and technical roadmaps from MVP to Store deployment.
-- **AI-Driven Productivity:** Expert in using **Cursor** and **Claude** to accelerate development cycles.
-- **Scalability:** I prioritize documenting common component libraries to ensure long-term codebase health.
+## 🏗️ Selected Engineering Case Studies
+
+### 🏋️ TrainerX (Taiwan Region MVP)
+*Full-Stack Mobile Ownership | React Native & Expo*
+
+This was a ground-up development where I managed the entire task lifecycle and technical roadmap.
+- **Architected Localized Integrations:** Engineered a bridge for the **LINE Messenger API** to handle deep-linking and user authentication within the Taiwan market.
+- **Scheduling Logic:** Integrated **Google Calendar API** to sync trainer availability and student bookings in real-time.
+- **AI-Driven Infrastructure:** Leveraged **Cursor and Claude** to build out the supporting Next.js web dashboard while maintaining the mobile app.
+- **Scalability:** Created and documented a library of common UI components in **Notion** to ensure the client’s team could maintain the app post-handoff.
+
+### 🍱 Bamboo Bowl (FinTech & Retail)
+*Senior Mobile Developer | Hardware Integration*
+
+I led the mobile architecture for a multi-platform restaurant ecosystem, including consumer apps and self-ordering kiosks.
+- **Hardware Bridging:** Solved the complex challenge of interfacing React Native with **physical POS payment terminals**, ensuring secure and stable transaction handshakes.
+- **Real-Time Navigation:** Implemented **WebSockets** to drive the app flow; once the server confirmed an order, the app automatically navigated the user to a "Ready" state without manual input.
+- **Network Resilience:** Developed an **offline-first state management** strategy using Redux to prevent data loss during restaurant Wi-Fi fluctuations.
+
+### 🚨 Honk (Community Safety Platform)
+*Lead Mobile Architect | Geolocation & Maps*
+
+A real-time safety app designed for high-stress situations requiring instant data delivery.
+- **Optimized Geolocation:** Implemented advanced **Google Maps clustering** logic to handle high-density hazard reports without degrading app performance.
+- **Sub-Second Sync:** Engineered the data layer using **Firebase Firestore** to ensure hazard alerts were synced across all devices in the community in under 500ms.
+- **Push Notification Architecture:** Built a targeted notification system using **FCM** to alert users based on their specific geographic radius.
 
 ---
 
-### 📊 GitHub Activity
-*(Native GitHub Statistics)*
+## 🧠 Engineering Philosophy
 
-![Shah's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahKhalid808&layout=compact&hide_border=true&title_color=0366d6&text_color=586069&icon_color=0366d6)
-
-![Shah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahKhalid808&show_icons=true&hide_border=true&title_color=0366d6&text_color=586069&icon_color=0366d6)
+- **Self-Directed Ownership:** I don't just write code; I manage the project. From self-assigning tasks to meeting store deployment deadlines, I own the delivery.
+- **Documentation as Code:** I believe a project is only as good as its documentation. I document common components as I build them.
+- **Modern Workflow:** I stay at the cutting edge by integrating **AI-assisted development** into my daily process, allowing for faster iterations and cleaner code architecture.
 
 ---
 
-### 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/shah-khalid-react-native) • [Email](mailto:shahkhalid63@yahoo.com) • Islamabad, Pakistan
+## 📫 Connect with Me
+[LinkedIn](https://linkedin.com/in/shah-khalid-react-native) • [Email](mailto:shahkhalid63@yahoo.com)
