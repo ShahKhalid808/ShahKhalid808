@@ -26,7 +26,7 @@ This was a ground-up development where I managed the entire task lifecycle and t
 - **Scheduling Logic:** Integrated **Google Calendar API** to sync trainer availability and student bookings in real-time.
 - **AI-Driven Infrastructure:** Leveraged **Cursor and Claude** to build out the supporting Next.js web dashboard while maintaining the mobile app.
 - **Scalability:** Created and documented a library of common UI components in **Notion** to ensure the client’s team could maintain the app post-handoff.
-- **View the full case study here:** [TrainerX Case Study](https://github.com/ShahKhalid808/trainerx-case-study/blob/main/README.md)
+- **View the full case study click here:** [TrainerX Case Study](https://github.com/ShahKhalid808/trainerx-case-study/blob/main/README.md)
 
 ### 🍱 Bamboo Bowl (FinTech & Retail)
 *Senior Mobile Developer | Hardware Integration*
